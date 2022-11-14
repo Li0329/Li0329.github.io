@@ -31,5 +31,5 @@ Hugo makes use of a variety of open source projects including:
 * https://github.com/spf13/cobra
 * https://github.com/spf13/viper
 
-hahahaha
+I love Arsenal.
 
