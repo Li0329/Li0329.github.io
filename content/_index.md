@@ -1,4 +1,4 @@
 +++
-author = "雨果维文
+author = "Hugo Authors"
 +++
 
